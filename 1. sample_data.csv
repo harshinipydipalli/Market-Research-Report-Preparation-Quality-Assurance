@@ -1,0 +1,19 @@
+Product,Sales_Q1,Sales_Q2,Customer_Rating,,Category,,,,
+Product A,5000,5200,4.2,,Electronics,10%,,,
+Product B,3000,2800,3.8,,Electronics,6%,,,
+Product C,7000,7300,3.2,,Home Appliances,14%,,,
+Product D,2000,2200,3.5,,Home Appliances,5%,,Validating market share:,
+Product E,4000,4100,4,,Apparel,8%,,Apparel,31.00
+Product F,3500,3600,4.1,,Apparel,7%,,Electronics,39.00
+Product G,1500,1400,3.7,,Electronics,3%,,Home Appliances,30.00
+Product H,5000,5200,4.3,,Apparel,9%,,,
+Product I,3000,3100,3.9,,Home Appliances,6%,,Total share should be 100,100.00
+Product J,4000,4010,4.2,,Electronics,8%,,,
+Product K,2500,2600,3.6,,Apparel,4%,,,
+Product L,1000,900,1,,Home Appliances,2%,,,
+Product M,6000,6200,4.4,,Electronics,12%,,,
+Product N,2200,2300,3.9,,Apparel,3%,,,
+Product O,1800,1900,3.8,,Home Appliances,3%,,,
+(Just giving wrong info and checking for error),,,,,,,,,
+Validation Test,Error,4000,Error,,,,,,
+,,,Error,,,,,,
